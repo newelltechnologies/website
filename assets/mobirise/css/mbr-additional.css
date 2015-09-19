@@ -1,0 +1,34 @@
+#menu-0 .mbr-brand__name {
+	font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+	background: #000000;
+}
+#menu-0 .mbr-navbar__section {
+}
+#content1-13 H1 {
+	text-align: center !important;
+}
+#features1-5 P {
+	text-align: center !important;
+}
+#msg-box4-12 H2 {
+	text-align: center !important;
+	color: #000000 !important;
+}
+#social-buttons2-12 .mbr-header__text {
+	text-align: center;
+	color: #ffffff;
+}
+#contacts1-10 STRONG {
+	color: #ffffff !important;
+}
+#footer1-2 P {
+	text-align: left !important;
+	color: #ffffff !important;
+	font-size: 13px !important;
+}
+#msg-box3-12 P {
+	color: #000000 !important;
+	text-align: center !important;
+}
