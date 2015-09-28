@@ -9,6 +9,15 @@
 #content1-13 H1 {
 	text-align: center !important;
 }
+#content1-13 P {
+	text-align: center !important;
+}
+#content1-13 H2 {
+	text-align: center !important;
+}
+#content1-13 UL {
+	text-align: left !important;
+}
 #features1-5 P {
 	text-align: center !important;
 }
